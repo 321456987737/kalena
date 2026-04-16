@@ -63,7 +63,7 @@ const Herosection = () => {
   </p>
 </div>
 
-<div className="absolute -top-15 right-0 z-10 w-56 bg-white/80 backdrop-blur-md shadow-xl rounded-2xl p-4 border border-gray-100">
+<div className="absolute -top-10 right-0 z-10 w-56 bg-white/80 backdrop-blur-md shadow-xl rounded-2xl p-4 border border-gray-100">
   
   {/* Stars */}
   <div className="flex items-center gap-1 mb-2">
