@@ -48,7 +48,7 @@ const Location = () => {
             transition={{ delay: 0.2, duration: 0.6 }}
             className="flex flex-col items-center gap-4"
           >
-            <MapPin className="w-8 h-8 text-[#c48a3a]" />
+            <MapPin className="w-8 h-8 text-[#F5977E]" />
             <h3 className="font-semibold text-lg Merriweather">Address</h3>
             <p className="text-gray-600">
               123 Coffee Street <br />
@@ -64,7 +64,7 @@ const Location = () => {
             transition={{ delay: 0.35, duration: 0.6 }}
             className="flex flex-col items-center gap-4"
           >
-            <Clock className="w-8 h-8 text-[#c48a3a]" />
+            <Clock className="w-8 h-8 text-[#F5977E]" />
             <h3 className="font-semibold text-lg Merriweather">
               Opening Hours
             </h3>
@@ -82,7 +82,7 @@ const Location = () => {
             transition={{ delay: 0.5, duration: 0.6 }}
             className="flex flex-col items-center gap-4"
           >
-            <Phone className="w-8 h-8 text-[#c48a3a]" />
+            <Phone className="w-8 h-8 text-[#F5977E]" />
             <h3 className="font-semibold text-lg Merriweather">Contact</h3>
             <p className="text-gray-600">+92 300 1234567</p>
 

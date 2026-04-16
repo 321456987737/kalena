@@ -15,7 +15,7 @@ const About = () => {
     return () => clearInterval(interval);
   }, []);
    return (
-    <div className="w-full bg-white py-20 px-6">
+    <div className="w-full bg-white md:py-20 py-8 px-6">
       <div className="max-w-7xl mx-auto flex flex-col-reverse lg:flex-row items-center gap-16">
 
         {/* LEFT → Images */}

@@ -40,7 +40,7 @@ const Gallery = () => {
   };
 
   return (
-    <section className="w-full pt-24 pb-36 px-6 bg-[#fffef9]">
+    <section className="w-full md:pt-24 md:pb-36 py-8 px-6 bg-[#fffef9]">
       <div className="max-w-7xl mx-auto">
 
         {/* TITLE */}
