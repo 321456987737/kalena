@@ -36,7 +36,7 @@ const slides = [
   return (
     <div>
          <HeroSection
-               title="WELCOME TO ARVACI"
+               title="About Kalena"
                description="By day we serve amazing healthy breakfasts, lunch and light supper, together with freshly pressed juices."
                image="/herosection.jpeg"
              />
